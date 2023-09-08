@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fartwork.lfaidata.foundation%2Fprojects%2Fonnx%2F&psig=AOvVaw26L4vMAm1LAXYGlVvKwWvu&ust=1694251727490000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjU5tTZmoEDFQAAAAAdAAAAABAU" alt="ONNX" width ="40" height="40"/>
+<img src="https://artwork.lfaidata.foundation/projects/onnx/stacked/white/onnx-stacked-white.svg" alt="ONNX" width ="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
